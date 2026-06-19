@@ -1,9 +1,0 @@
-{
-  "name": "content-dashboard",
-  "version": "1.0.0",
-  "private": true,
-  "description": "White-label social content dashboard (board, approval, publish) on Netlify + Zernio",
-  "dependencies": {
-    "@netlify/blobs": "latest"
-  }
-}
